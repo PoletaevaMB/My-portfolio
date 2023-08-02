@@ -38,7 +38,7 @@
 </ol>
 > <a href="https://docs.google.com/spreadsheets/d/1EkwO3hPM5BAfRsIBjWgw20ccY1kEWU7B/edit?usp=sharing&ouid=112320574611415082385&rtpof=true&sd=true">Ссылка на проект</a>
 
-<br> 
+
 
 <p> Проект 2: Калькулятор юнит-экономики онлайн-кинотеатра</p>
 <p>Что нужно было сделать:<p>
