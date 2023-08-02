@@ -70,7 +70,7 @@
 
   
   
- <p>Процесс:<p>
+<p>Как решала:<p>
 <ol>
    <li>Узнать когда была первая транзакция для каждого студента. Начиная с этой даты собирается баланс уроков </li>
   <li>Собрать таблицу с датами за каждый календарный день 2016 года.</li>
@@ -92,7 +92,7 @@
   <li>Визуализация (линейная диаграмму) итогового результата.  </li>
 </ol>
 
-> <a href="[https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing](https://docs.google.com/spreadsheets/d/1-y-6qr7syPcW5n7bYBLYK34m7efQ8lbP/edit?usp=drive_link&ouid=112320574611415082385&rtpof=true&sd=true)">Ссылка на проект</a>
+> <a href="https://docs.google.com/spreadsheets/d/1-y-6qr7syPcW5n7bYBLYK34m7efQ8lbP/edit?usp=drive_link&ouid=112320574611415082385&rtpof=true&sd=true">Ссылка на проект</a>
 
 <p>Выводы (итоги):<p>
 <ol>
