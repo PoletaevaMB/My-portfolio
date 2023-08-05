@@ -139,7 +139,7 @@
 
 </ol>
 
-> <a href="https://docs.google.com/spreadsheets/d/1spykyKqLzhjw7fRh687MVjlPETwcwAP_/edit?usp=sharing&ouid=112320574611415082385&rtpof=true&sd=true">Ссылка на проект</a>
+> <a href="https://drive.google.com/file/d/1ZkYARuhqqeOpm1HxGYJfHosU91Vr6dVg/view?usp=sharing">Ссылка на проект</a>
 
 <br> 
 <p>Выводы (итоги):<p>
